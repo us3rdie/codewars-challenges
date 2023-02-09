@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/526989a41034285187000de4/solutions/javascript
+//https://www.codewars.com/kata/526989a41034285187000de4/solutions/javascript
 function ipsBetween(start, end) {
     let startArr = start.split(".").map(Number),
         endArr = end.split(".").map(Number);
